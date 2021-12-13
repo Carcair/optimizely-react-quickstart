@@ -1,6 +1,6 @@
 ### If you are using mac:
 ```
-REACT_APP_SDK_KEY=FBNj5rvzvSGYX6gMH9fX8 yarn start
+REACT_APP_SDK_KEY=<SDK_KEY> yarn start
 ```
 
 Copy the SDK key from desired environment on your Optimizely Full-stack profile.
